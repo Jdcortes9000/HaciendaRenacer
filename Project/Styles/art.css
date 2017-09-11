@@ -1,1 +1,33 @@
 
+
+
+.tour{
+    
+    margin-left: 35px;
+    margin-bottom: 50px;
+}
+#Title{
+    display:inline;
+    margin-right:10px;   
+    margin-left: 23px;
+}
+#Price{
+    display:inline;  
+}
+#Img{
+    
+     display:inline;
+     float:left;
+}
+#Desc{
+    
+    width: 350px; 
+    height: 140px;
+    margin-left: 275px;  
+}
+#Btn{
+   
+    width: 200px; 
+    height: 50px;
+    margin-left: 23px;
+}
